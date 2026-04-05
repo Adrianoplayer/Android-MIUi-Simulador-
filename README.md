@@ -1,4 +1,4 @@
-# Android-MIUi-Simulador-
+# Android MIUi Simulador
 simuldores sistema miui Xiaomi 9 Note emulador eu criei para celular com base44 
 70 aplicativo 
 30,80 GB
